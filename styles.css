@@ -11,7 +11,7 @@ body {
     background-position: center center;
     height: 300px;
     width: 100%;
-    padding: 150px;
+    padding-top: 150px;
 }
 
 .welcome{
@@ -24,6 +24,7 @@ body {
 .locations-tag{
     color: whitesmoke; 
     background-color: #14213d;
+    background: ;
     color: whitesmoke;
     position: center;
     font-family: 'Ysabeau SC', sans-serif; 
