@@ -17,7 +17,7 @@ body {
 .welcome{
     border: 4px solid whitesmoke;
     color: white;
-    position: center;
+    position: center center;
     font-family: 'Ysabeau SC', sans-serif; 
 }
 
